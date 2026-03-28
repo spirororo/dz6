@@ -140,3 +140,4 @@ Instrumented-тесты реализованы, но для полного за�
 <img width="1080" height="2400" alt="Screenshot_20260318_011127" src="https://github.com/user-attachments/assets/56689c37-0eb9-470c-b2aa-881ad5f6b695" />
 <img width="1080" height="2400" alt="Screenshot_20260318_011115" src="https://github.com/user-attachments/assets/35b253be-1846-40db-8f03-938ceb8293f8" />
 <img width="1080" height="2400" alt="Screenshot_20260318_011050" src="https://github.com/user-attachments/assets/87f236bb-4cf1-44e3-87ed-9eb6b0ffcf78" />
+Update for PR
